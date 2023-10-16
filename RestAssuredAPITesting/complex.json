@@ -1,0 +1,66 @@
+{
+	"category": "Super Hero Movies & TV Series",
+	"acceptedFranchises": [
+		"DC",
+		"Marvel"
+	],
+	"genres": [
+		"Action",
+		"Adventure",
+		"Heroic",
+		"Dark",
+		"Funny"
+	],
+	"movies": [
+		{
+			"title": "Batman: The Dark knigth",
+			"year": 2008,
+			"cast": [
+				"Christian Bale",
+				"Heath Ledger"
+			]
+		},
+		{
+			"title": "Justice League : Snyder Cut",
+			"year": 2021,
+			"cast": [
+				"Henry Cavill",
+				"Gal Gadot"
+			]
+		},
+		{
+			"title": "Avengers: Age of Ultron",
+			"year": 2015,
+			"cast": [
+				"Robert Downey Jr.",
+				"Chris Evans"
+			]
+		},
+		{
+			"title": "The Avengers",
+			"year": 2012,
+			"cast": [
+				"Chris Evans",
+				"ChrisHemsworth"
+			]
+		}
+	],
+	"tvSeries": [
+		{
+			"title": "Flash",
+			"years": 2014
+		},
+		{
+			"title": "Gotham",
+			"years": 2014
+		},
+		{
+			"title": "Super Girl",
+			"years": 2014
+		}
+	],
+	"otherDetails": {
+		"country": "Only USA, Engaluku verengum kilagal Kidayathu",
+		"language": "Alien ah irunthalum English Karanda"
+	}
+}
